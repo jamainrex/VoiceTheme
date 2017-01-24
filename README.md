@@ -1,0 +1,2 @@
+# VoiceTheme
+Wordpress Voice Theme

@@ -1,0 +1,14 @@
+/*
+Theme Name:     Voice Child
+Theme URI:      http://mekshq.com
+Description:    Child theme for the Voice Theme
+Author:         Meks
+Author URI:     http://mekshq.com
+Template:       voice
+Version:        0.1.0
+*/
+
+.vce-featured > a img, .vce-featured > img, .vce-lay-g > a img, .vce-lay-g > img {
+height: auto !important;
+top: -9750px !important;
+}
